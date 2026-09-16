@@ -254,17 +254,12 @@ My responsibilities included:
 
 ## 📱 Screenshots
 
-### Student Interface
 
-*Add your student application screenshots here.*
-
-### Company Interface
-
-*Add your company dashboard screenshots here.*
-
-### Opportunity Interface
-
-*Add opportunity and application screenshots here.*
+<p align="center">
+  <img src="screenshots/itconnect-company-home.png" width="250">
+  <img src="screenshots/itconnect-company-applications.png" width="250">
+  <img src="screenshots/itconnect-all-applicants.png" width="250">
+</p>
 
 ---
 
