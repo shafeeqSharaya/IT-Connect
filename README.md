@@ -256,7 +256,7 @@ My responsibilities included:
 
 
 <p align="center">
-  <img src="screenshots/itconnect-company-home.png" width="250">
+  <img src="itconnect-company-home.png" width="250">
   <img src="screenshots/itconnect-company-applications.png" width="250">
   <img src="screenshots/itconnect-all-applicants.png" width="250">
 </p>
